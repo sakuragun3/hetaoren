@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "type-aliases-packages",
+      "type": "java.lang.String",
+      "description": "Description for type-aliases-packages."
+  }
+] }
